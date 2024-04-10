@@ -273,6 +273,10 @@ html{
     border-left: 1px solid #bab9b9;
     padding-left: 20px;
 }
+.resumen .contenido-seccion .info .col table .descripcion ul{
+    list-style-type: '\2714\00A0';
+    list-style-position: inside;
+}
 /* SECCION CONTACTO */
 .contacto{
     background-color: #202020;
